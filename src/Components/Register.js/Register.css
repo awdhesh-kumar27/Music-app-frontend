@@ -1,0 +1,73 @@
+.register-div{
+    width: 300px;
+    height: 400px;
+    border: 2px solid red;
+    background-color:rgb(180, 209, 209);
+    margin-top: 10%;
+    left: 25%;
+    border-radius: 5px ;
+}
+
+.register-inside-div{
+     top:30%;
+     position: relative;
+     left:20%;
+}
+
+.register-button-style{
+    top:40%;
+    left: 20%;
+    position: relative;
+    color:white;
+    width:120px;
+    height: 40px;
+    background-color: rgb(9, 14, 84);
+}
+
+.register-button-inside-style{
+   left:30%;
+   top:20%;
+   position: relative;
+}
+.login-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.login-form{
+   border: 6px solid black;
+   width: 350px;
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+   border-radius: 5px 5px;
+   box-shadow: 2px 4px 4px 4px gray;
+}
+
+
+.input-box{
+   width: 90%;
+   height: 25px;
+   margin-top: 5px;
+   margin-bottom: 10px ;
+   font-family: cursive;    
+}
+
+.submit-button{
+   width: 92%;
+   height: 35px;
+   color:white;
+   margin-top: 10px;
+   background-color: black;
+   cursor: pointer;
+   margin-bottom: 15px;
+}
+
+.submit-button:hover{
+    color:rgb(255, 253, 253);
+    background-color: rgb(18, 80, 7);
+}
+
+.heading{
+   font-family: cursive;
+}

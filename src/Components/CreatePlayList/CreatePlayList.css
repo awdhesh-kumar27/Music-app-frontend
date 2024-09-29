@@ -1,0 +1,14 @@
+.create-playlist-div{
+    border: 6px solid black;
+    border-radius: 4px;
+    width: 450px;
+    height: 200px;
+    /* padding: 40px 10px 10px 10px; */
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10% ;
+    left: 35%;
+    position: relative;
+}

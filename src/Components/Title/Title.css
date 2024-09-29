@@ -1,0 +1,14 @@
+.toolbar-style-title {
+    color:red;
+    background-color: rgb(255, 251, 0);
+    width: 100%;
+    top: 50px;
+    height: 80px;
+    text-align: center;
+    position: relative;
+    box-shadow: inset;
+    font-size: 40px;
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+

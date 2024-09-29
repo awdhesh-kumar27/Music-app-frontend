@@ -1,0 +1,13 @@
+.alert-with-progress {
+    position: relative;
+    padding-bottom: 0; /* Remove padding at the bottom */
+  }
+  
+  .alert-with-progress .progress {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-bottom: 0; /* Remove margin at the bottom */
+  }
+  

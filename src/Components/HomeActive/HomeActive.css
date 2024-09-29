@@ -1,0 +1,4 @@
+.home-active-div{
+     display: flex;
+     flex-direction: column;
+}

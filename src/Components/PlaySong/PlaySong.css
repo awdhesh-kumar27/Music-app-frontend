@@ -1,0 +1,48 @@
+.play-song-div{
+     display: flex;
+     flex-direction: column;
+     background-color: rgb(216, 198, 174);
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-align: center;
+     align-items: center;
+     border-radius: 5px;
+}
+
+.play-song-child-1{
+     align-self: center;
+     text-align: center  ;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+     font-size: 30px;
+     font-family: cursive;
+     color: rgb(9, 9, 85);
+     background-color: rgb(145, 74, 175);
+}
+.play-song-child-2{
+     align-self: center;
+     text-align: center  ;
+     
+     justify-content: center;
+     /* background: linear-gradient(to right, #FF5F6D, #FFC371); */
+     /* background: linear-gradient(to right, #00C9FF, #92FE9D); */
+     background: linear-gradient(to right, #ee0979, #ff6a00);
+     background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+
+
+/*  */
+
+
+     display: flex;
+     flex-direction: column;
+}
+.play-song-child-3{
+     align-self: center;
+     text-align: center  ;
+     justify-content: center;
+     background-color: rgb(146, 36, 139);
+     display: flex;
+     flex-direction: column;
+     
+}

@@ -1,1 +1,1 @@
-export const Server_Url = "https://login-api-yupg.onrender.com";
+export const Server_Url = "https://music-app-backend-y3y6.onrender.com";

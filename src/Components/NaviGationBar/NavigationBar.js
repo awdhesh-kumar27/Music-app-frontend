@@ -76,7 +76,7 @@ function NavigationBar(props) {
         </Nav.Item>
         <Nav.Item>
             <div className="dropdown">
-                <button className="dropbtn">Playlists</button>
+                <button className="dropbtn">Add Song to Playlist</button>
                       <div className="dropdown-content">
                         {Playlists.map(({ playlistName, _id }) => (
                           <a key={_id} href={`/AddSongPlaylist/${_id}`}  onClick={(event) => handleLinkClick(event, _id) }>{playlistName}</a>
